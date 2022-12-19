@@ -8,8 +8,8 @@ node {
 	stage('data Test') {
 		echo "Integration Test"
 	}
-	stage('deploy ') {
-		echo "deploy "
+	stage('delivered ') {
+		echo "delivered "
 	}
 
 
